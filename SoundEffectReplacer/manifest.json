@@ -1,0 +1,10 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Sarayalth",
+  "description": "Allows you to change game's sound effects",
+  "gameVersion": "1.6.0",
+  "id": "SoundEffectReplacer",
+  "name": "SoundEffectReplacer",
+  "version": "0.1",
+  "features": []
+}
